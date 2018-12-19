@@ -1,0 +1,17 @@
+{
+  "name": "@namespace/@lib-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "license": "",
+  "peerDependencies": {
+    "react": "^15.3.0 || ^16.2.0",
+    "react-dom": "^15.3.0 || ^16.2.0"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "author": "Author <author-mail>",
+  "homepage": ""
+}
